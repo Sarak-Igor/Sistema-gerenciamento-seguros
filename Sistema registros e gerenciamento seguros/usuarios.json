@@ -1,0 +1,46 @@
+{
+    "admin": [
+        "admin123",
+        "administrador"
+    ],
+    "user1": [
+        "user123",
+        "usuario"
+    ],
+    "user2": [
+        "user456",
+        "usuario"
+    ],
+    "Igor": [
+        "1234",
+        "administrador"
+    ],
+    "56625845599": [
+        "12345",
+        "usuario"
+    ],
+    "44589658877": [
+        "12345",
+        "usuario"
+    ],
+    "12344785699": [
+        "12345",
+        "usuario"
+    ],
+    "35698744622": [
+        "12345",
+        "usuario"
+    ],
+    "12354789654": [
+        "12345",
+        "usuario"
+    ],
+    "25478965488": [
+        "12345",
+        "usuario"
+    ],
+    "Teste": [
+        "1234",
+        "administrador"
+    ]
+}

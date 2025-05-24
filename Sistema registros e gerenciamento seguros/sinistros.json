@@ -1,0 +1,14 @@
+[
+    {
+        "numero_apolice": "3",
+        "data_sinistro": "24/05/2025",
+        "descricao_sinistro": "PT batida de frente",
+        "status_sinistro": "Aprovado"
+    },
+    {
+        "numero_apolice": "5",
+        "data_sinistro": "24/05/2025",
+        "descricao_sinistro": "Morte por infarto",
+        "status_sinistro": "Em Análise"
+    }
+]
