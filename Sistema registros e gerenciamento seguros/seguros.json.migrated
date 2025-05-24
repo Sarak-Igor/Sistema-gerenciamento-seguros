@@ -1,0 +1,153 @@
+[
+    {
+        "nome": "Maria Luisa Carvalho",
+        "cpf": "56625845599",
+        "data_nascimento": "17/05/2001",
+        "endereco": "Rua Granada, 124",
+        "telefone": "11945887415",
+        "email": "marialuisa@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Vida",
+        "data_inicio_apolice": "23/05/2025",
+        "data_fim_apolice": "23/05/2035",
+        "valor_assegurado": 1500000.0,
+        "dados_especificos": {
+            "beneficiarios": "Casa de adoção Luz Divina",
+            "Morte (natural ou acidental)_var": false,
+            "Invalidez permanente_var": false,
+            "Doenças graves_var": false,
+            "Total_var": false
+        },
+        "numero_apolice": 1
+    },
+    {
+        "nome": "João Kleber Ribeiro",
+        "cpf": "44589658877",
+        "data_nascimento": "04/09/1963",
+        "endereco": "Avenida Girassol, 24",
+        "telefone": "11956895475",
+        "email": "joaokleber@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Residencial",
+        "data_inicio_apolice": "01/06/2025",
+        "data_fim_apolice": "01/06/2027",
+        "valor_assegurado": 750000.0,
+        "dados_especificos": {
+            "endereco_imovel": "Avenida Girassol, 24",
+            "area": "110",
+            "valor_venal": "750000,00",
+            "tipo_construcao": "Alvenaria"
+        },
+        "numero_apolice": 2
+    },
+    {
+        "nome": "Carolina Mendonça",
+        "cpf": "12344785699",
+        "data_nascimento": "14/03/1996",
+        "endereco": "Rua das Palmeiras, 186, apto 167",
+        "telefone": "11945875589",
+        "email": "carolinamendonca@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Automóvel",
+        "data_inicio_apolice": "30/05/2025",
+        "data_fim_apolice": "30/05/2026",
+        "valor_assegurado": 97000.0,
+        "dados_especificos": {
+            "marca": "Hyundai",
+            "modelo": "HB20 Sport",
+            "ano": "2024",
+            "placa": "FAX6I45",
+            "conservacao": "Semi novo",
+            "uso": "Pessoal",
+            "condutores": ""
+        },
+        "numero_apolice": 3,
+        "data_sinistro": "24/05/2025",
+        "descricao_sinistro": "Teste",
+        "status_sinistro": "Em Análise"
+    },
+    {
+        "nome": "Carolina Mendonça",
+        "cpf": "12344785699",
+        "data_nascimento": "14/03/1996",
+        "endereco": "Rua das Palmeiras, 186, apto 167",
+        "telefone": "11945875589",
+        "email": "carolinamendonca@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Residencial",
+        "data_inicio_apolice": "04/06/2025",
+        "data_fim_apolice": "04/05/2035",
+        "valor_assegurado": 1500000.0,
+        "dados_especificos": {
+            "endereco_imovel": "Rua das Palmeiras, 186, apto 167",
+            "area": "350",
+            "valor_venal": "1500000",
+            "tipo_construcao": "Alvenaria"
+        },
+        "numero_apolice": 4
+    },
+    {
+        "nome": "Mariana Oliveira",
+        "cpf": "35698744622",
+        "data_nascimento": "06/06/1998",
+        "endereco": "Rua das Colméias, 566",
+        "telefone": "119654789856",
+        "email": "marianaoliveira@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Vida",
+        "data_inicio_apolice": "23/05/2025",
+        "data_fim_apolice": "23/05/2035",
+        "valor_assegurado": 2500000.0,
+        "dados_especificos": {
+            "beneficiarios": "Sobrinhos: Flávia e Guilherme",
+            "Morte (natural ou acidental)_var": false,
+            "Invalidez permanente_var": false,
+            "Doenças graves_var": false,
+            "Total_var": false
+        },
+        "numero_apolice": 5
+    },
+    {
+        "nome": "Carla Dias",
+        "cpf": "12354789654",
+        "data_nascimento": "28/04/1971",
+        "endereco": "Rua Brasil, 56",
+        "telefone": "111965894785",
+        "email": "carladias@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Automóvel",
+        "data_inicio_apolice": "15/06/2025",
+        "data_fim_apolice": "15/06/2026",
+        "valor_assegurado": 750000.0,
+        "dados_especificos": {
+            "marca": "\nRolls-Royce",
+            "modelo": "Phantom",
+            "ano": "2017",
+            "placa": "SIL5678",
+            "conservacao": "Usado",
+            "uso": "Pessoal",
+            "condutores": ""
+        },
+        "numero_apolice": 6
+    },
+    {
+        "nome": "Meredith Fagundes",
+        "cpf": "25478965488",
+        "data_nascimento": "08/11/1993",
+        "endereco": "Alameda das Caldeiras, 2335",
+        "telefone": "11958745963",
+        "email": "maredithfagundes@mail.com",
+        "status_apolice": "Ativa",
+        "tipo_seguro": "Residencial",
+        "data_inicio_apolice": "24/06/2025",
+        "data_fim_apolice": "24/06/2035",
+        "valor_assegurado": 1500000.0,
+        "dados_especificos": {
+            "endereco_imovel": "Alameda das Caldeiras, 2335",
+            "area": "560",
+            "valor_venal": "1500000,00",
+            "tipo_construcao": "Alvenaria"
+        },
+        "numero_apolice": 7
+    }
+]
