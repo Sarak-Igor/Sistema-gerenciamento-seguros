@@ -1,0 +1,50 @@
+[
+    {
+        "cpf": "56625845599",
+        "nome": "Maria Luisa Carvalho",
+        "data_nascimento": "17/05/2001",
+        "endereco": "Rua Granada, 124",
+        "telefone": "11945887415",
+        "email": "marialuisa@mail.com"
+    },
+    {
+        "cpf": "44589658877",
+        "nome": "João Kleber Ribeiro",
+        "data_nascimento": "04/09/1963",
+        "endereco": "Avenida Girassol, 24",
+        "telefone": "11956895475",
+        "email": "joaokleber@mail.com"
+    },
+    {
+        "cpf": "12344785699",
+        "nome": "Carolina Mendonça",
+        "data_nascimento": "14/03/1996",
+        "endereco": "Rua das Palmeiras, 186, apto 167",
+        "telefone": "11945875589",
+        "email": "carolinamendonca@mail.com"
+    },
+    {
+        "cpf": "35698744622",
+        "nome": "Mariana Oliveira",
+        "data_nascimento": "06/06/1998",
+        "endereco": "Rua das Colméias, 566",
+        "telefone": "119654789856",
+        "email": "marianaoliveira@mail.com"
+    },
+    {
+        "cpf": "12354789654",
+        "nome": "Carla Dias",
+        "data_nascimento": "28/04/1971",
+        "endereco": "Rua Brasil, 56",
+        "telefone": "111965894785",
+        "email": "carladias@mail.com"
+    },
+    {
+        "cpf": "25478965488",
+        "nome": "Meredith Fagundes",
+        "data_nascimento": "08/11/1993",
+        "endereco": "Alameda das Caldeiras, 2335",
+        "telefone": "11958745963",
+        "email": "maredithfagundes@mail.com"
+    }
+]

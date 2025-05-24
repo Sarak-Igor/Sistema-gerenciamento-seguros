@@ -1,0 +1,1 @@
+# Funções auxiliares (validação, formatação, etc.) 

@@ -1,0 +1,115 @@
+[
+    {
+        "numero_apolice": 1,
+        "cpf_cliente": "56625845599",
+        "tipo_seguro": "Vida",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "23/05/2025",
+        "data_fim_apolice": "23/05/2035",
+        "valor_assegurado": 1500000.0,
+        "dados_especificos": {
+            "beneficiarios": "Casa de adoção Luz Divina",
+            "Morte (natural ou acidental)_var": false,
+            "Invalidez permanente_var": false,
+            "Doenças graves_var": false,
+            "Total_var": false
+        }
+    },
+    {
+        "numero_apolice": 2,
+        "cpf_cliente": "44589658877",
+        "tipo_seguro": "Residencial",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "01/06/2025",
+        "data_fim_apolice": "01/06/2027",
+        "valor_assegurado": 750000.0,
+        "dados_especificos": {
+            "endereco_imovel": "Avenida Girassol, 24",
+            "area": "110",
+            "valor_venal": "750000,00",
+            "tipo_construcao": "Alvenaria"
+        }
+    },
+    {
+        "numero_apolice": 3,
+        "cpf_cliente": "12344785699",
+        "tipo_seguro": "Automóvel",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "30/05/2025",
+        "data_fim_apolice": "30/05/2026",
+        "valor_assegurado": 97000.0,
+        "dados_especificos": {
+            "marca": "Hyundai",
+            "modelo": "HB20 Sport",
+            "ano": "2024",
+            "placa": "FAX6I45",
+            "conservacao": "Semi novo",
+            "uso": "Pessoal",
+            "condutores": ""
+        }
+    },
+    {
+        "numero_apolice": 4,
+        "cpf_cliente": "12344785699",
+        "tipo_seguro": "Residencial",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "04/06/2025",
+        "data_fim_apolice": "04/05/2035",
+        "valor_assegurado": 1500000.0,
+        "dados_especificos": {
+            "endereco_imovel": "Rua das Palmeiras, 186, apto 167",
+            "area": "350",
+            "valor_venal": "1500000",
+            "tipo_construcao": "Alvenaria"
+        }
+    },
+    {
+        "numero_apolice": 5,
+        "cpf_cliente": "35698744622",
+        "tipo_seguro": "Vida",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "23/05/2025",
+        "data_fim_apolice": "23/05/2035",
+        "valor_assegurado": 2500000.0,
+        "dados_especificos": {
+            "beneficiarios": "Sobrinhos: Flávia e Guilherme",
+            "Morte (natural ou acidental)_var": false,
+            "Invalidez permanente_var": false,
+            "Doenças graves_var": false,
+            "Total_var": false
+        }
+    },
+    {
+        "numero_apolice": 6,
+        "cpf_cliente": "12354789654",
+        "tipo_seguro": "Automóvel",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "15/06/2025",
+        "data_fim_apolice": "15/06/2026",
+        "valor_assegurado": 750000.0,
+        "dados_especificos": {
+            "marca": "\nRolls-Royce",
+            "modelo": "Phantom",
+            "ano": "2017",
+            "placa": "SIL5678",
+            "conservacao": "Usado",
+            "uso": "Pessoal",
+            "condutores": ""
+        }
+    },
+    {
+        "numero_apolice": 7,
+        "cpf_cliente": "25478965488",
+        "tipo_seguro": "Residencial",
+        "status_apolice": "Ativa",
+        "data_inicio_apolice": "24/06/2025",
+        "data_fim_apolice": "24/06/2035",
+        "valor_assegurado": 1500000.0,
+        "dados_especificos": {
+            "endereco_imovel": "Alameda das Caldeiras, 2335",
+            "area": "560",
+            "valor_venal": "1500000,00",
+            "tipo_construcao": "Alvenaria"
+        }
+    }
+]
