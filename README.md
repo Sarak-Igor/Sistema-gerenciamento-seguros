@@ -95,11 +95,3 @@ O Sistema de Gestão de Seguros é uma aplicação desktop desenvolvida em Pytho
     ```bash
     python main.py
     ```
-
-## Próximos Passos e Melhorias Potenciais
-- Implementar um arquivo `requirements.txt`.
-- Refatorar a persistência de dados para um banco de dados (ex: SQLite) para melhor performance e integridade.
-- Aprimorar a gestão de sessões de usuário.
-- Expandir as funcionalidades de relatório.
-- Testes unitários e de integração.
-- Documentação mais detalhada do código. 
